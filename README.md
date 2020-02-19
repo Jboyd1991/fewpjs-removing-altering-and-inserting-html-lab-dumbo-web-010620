@@ -7,7 +7,7 @@
 3. Update elements using `innerHTML`
 4. Change properties on DOM nodes
 5. Remove elements from the DOM
-
+https://learn.co/tracks/web-development-immersive-3-1-module-three/front-end-web-programming/manipulating-the-dom/removing-altering-and-inserting-html-lab#
 ## Introduction
 
 In this lab, you will be inserting, altering, and removing DOM nodes. You will
